@@ -1,0 +1,7 @@
+D:\Parmesh Git\Logical-_Programs\Even_Odd_Number\obj\Debug\Even_Odd_Number.csproj.AssemblyReference.cache
+D:\Parmesh Git\Logical-_Programs\Even_Odd_Number\obj\Debug\Even_Odd_Number.csproj.CoreCompileInputs.cache
+D:\Parmesh Git\Logical-_Programs\Even_Odd_Number\bin\Debug\Even_Odd_Number.exe.config
+D:\Parmesh Git\Logical-_Programs\Even_Odd_Number\bin\Debug\Even_Odd_Number.exe
+D:\Parmesh Git\Logical-_Programs\Even_Odd_Number\bin\Debug\Even_Odd_Number.pdb
+D:\Parmesh Git\Logical-_Programs\Even_Odd_Number\obj\Debug\Even_Odd_Number.exe
+D:\Parmesh Git\Logical-_Programs\Even_Odd_Number\obj\Debug\Even_Odd_Number.pdb
