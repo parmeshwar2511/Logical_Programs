@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_1_Two _Sum", "Day_1_Two _Sum\Day_1_Two _Sum.csproj", "{B7CCC0AE-9E7E-4DA6-A5C0-C85B3B4D5B67}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_1_Two _Sum", "Day_1_Two _Sum\Day_1_Two _Sum.csproj", "{B7CCC0AE-9E7E-4DA6-A5C0-C85B3B4D5B67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Swaping_Numbers", "Swaping_Numbers\Swaping_Numbers.csproj", "{5133439C-0375-40F6-ABB3-7914F9DA8D41}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{B7CCC0AE-9E7E-4DA6-A5C0-C85B3B4D5B67}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7CCC0AE-9E7E-4DA6-A5C0-C85B3B4D5B67}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7CCC0AE-9E7E-4DA6-A5C0-C85B3B4D5B67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5133439C-0375-40F6-ABB3-7914F9DA8D41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5133439C-0375-40F6-ABB3-7914F9DA8D41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5133439C-0375-40F6-ABB3-7914F9DA8D41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5133439C-0375-40F6-ABB3-7914F9DA8D41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

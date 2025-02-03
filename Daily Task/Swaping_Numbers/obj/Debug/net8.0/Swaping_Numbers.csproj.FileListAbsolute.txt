@@ -1,0 +1,15 @@
+D:\Parmesh Git\Logical-_Programs\Daily Task\Swaping_Numbers\bin\Debug\net8.0\Swaping_Numbers.exe
+D:\Parmesh Git\Logical-_Programs\Daily Task\Swaping_Numbers\bin\Debug\net8.0\Swaping_Numbers.deps.json
+D:\Parmesh Git\Logical-_Programs\Daily Task\Swaping_Numbers\bin\Debug\net8.0\Swaping_Numbers.runtimeconfig.json
+D:\Parmesh Git\Logical-_Programs\Daily Task\Swaping_Numbers\bin\Debug\net8.0\Swaping_Numbers.dll
+D:\Parmesh Git\Logical-_Programs\Daily Task\Swaping_Numbers\bin\Debug\net8.0\Swaping_Numbers.pdb
+D:\Parmesh Git\Logical-_Programs\Daily Task\Swaping_Numbers\obj\Debug\net8.0\Swaping_Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Parmesh Git\Logical-_Programs\Daily Task\Swaping_Numbers\obj\Debug\net8.0\Swaping_Numbers.AssemblyInfoInputs.cache
+D:\Parmesh Git\Logical-_Programs\Daily Task\Swaping_Numbers\obj\Debug\net8.0\Swaping_Numbers.AssemblyInfo.cs
+D:\Parmesh Git\Logical-_Programs\Daily Task\Swaping_Numbers\obj\Debug\net8.0\Swaping_Numbers.csproj.CoreCompileInputs.cache
+D:\Parmesh Git\Logical-_Programs\Daily Task\Swaping_Numbers\obj\Debug\net8.0\Swaping_Numbers.sourcelink.json
+D:\Parmesh Git\Logical-_Programs\Daily Task\Swaping_Numbers\obj\Debug\net8.0\Swaping_Numbers.dll
+D:\Parmesh Git\Logical-_Programs\Daily Task\Swaping_Numbers\obj\Debug\net8.0\refint\Swaping_Numbers.dll
+D:\Parmesh Git\Logical-_Programs\Daily Task\Swaping_Numbers\obj\Debug\net8.0\Swaping_Numbers.pdb
+D:\Parmesh Git\Logical-_Programs\Daily Task\Swaping_Numbers\obj\Debug\net8.0\Swaping_Numbers.genruntimeconfig.cache
+D:\Parmesh Git\Logical-_Programs\Daily Task\Swaping_Numbers\obj\Debug\net8.0\ref\Swaping_Numbers.dll

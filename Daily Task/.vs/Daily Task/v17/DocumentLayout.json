@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Parmesh Git\\Logical-_Programs\\Daily Task\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B7CCC0AE-9E7E-4DA6-A5C0-C85B3B4D5B67}|Day_1_Two _Sum\\Day_1_Two _Sum.csproj|d:\\parmesh git\\logical-_programs\\daily task\\day_1_two _sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7CCC0AE-9E7E-4DA6-A5C0-C85B3B4D5B67}|Day_1_Two _Sum\\Day_1_Two _Sum.csproj|solutionrelative:day_1_two _sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5133439C-0375-40F6-ABB3-7914F9DA8D41}|Swaping_Numbers\\Swaping_Numbers.csproj|d:\\parmesh git\\logical-_programs\\daily task\\swaping_numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5133439C-0375-40F6-ABB3-7914F9DA8D41}|Swaping_Numbers\\Swaping_Numbers.csproj|solutionrelative:swaping_numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Parmesh Git\\Logical-_Programs\\Daily Task\\Day_1_Two _Sum\\Program.cs",
-              "RelativeDocumentMoniker": "Day_1_Two _Sum\\Program.cs",
-              "ToolTip": "D:\\Parmesh Git\\Logical-_Programs\\Daily Task\\Day_1_Two _Sum\\Program.cs",
-              "RelativeToolTip": "Day_1_Two _Sum\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Parmesh Git\\Logical-_Programs\\Daily Task\\Swaping_Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "Swaping_Numbers\\Program.cs",
+              "ToolTip": "D:\\Parmesh Git\\Logical-_Programs\\Daily Task\\Swaping_Numbers\\Program.cs",
+              "RelativeToolTip": "Swaping_Numbers\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwCEAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T19:15:23.337Z",
+              "WhenOpened": "2025-02-03T16:25:23.952Z",
               "EditorCaption": ""
             }
           ]
