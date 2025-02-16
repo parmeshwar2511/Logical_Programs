@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Parmesh Git\\Logical-_Programs\\Daily Task\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4A5D1ED9-721F-4CF8-924F-779FF5100B7B}|FibonacciSeries\\FibonacciSeries.csproj|d:\\parmesh git\\logical-_programs\\daily task\\fibonacciseries\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A5D1ED9-721F-4CF8-924F-779FF5100B7B}|FibonacciSeries\\FibonacciSeries.csproj|solutionrelative:fibonacciseries\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5133439C-0375-40F6-ABB3-7914F9DA8D41}|Swaping_Numbers\\Swaping_Numbers.csproj|d:\\parmesh git\\logical-_programs\\daily task\\swaping_numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5133439C-0375-40F6-ABB3-7914F9DA8D41}|Swaping_Numbers\\Swaping_Numbers.csproj|solutionrelative:swaping_numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -20,10 +24,23 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Parmesh Git\\Logical-_Programs\\Daily Task\\FibonacciSeries\\Program.cs",
+              "RelativeDocumentMoniker": "FibonacciSeries\\Program.cs",
+              "ToolTip": "D:\\Parmesh Git\\Logical-_Programs\\Daily Task\\FibonacciSeries\\Program.cs",
+              "RelativeToolTip": "FibonacciSeries\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T18:48:10.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "D:\\Parmesh Git\\Logical-_Programs\\Daily Task\\Swaping_Numbers\\Program.cs",
               "RelativeDocumentMoniker": "Swaping_Numbers\\Program.cs",
-              "ToolTip": "D:\\Parmesh Git\\Logical-_Programs\\Daily Task\\Swaping_Numbers\\Program.cs*",
-              "RelativeToolTip": "Swaping_Numbers\\Program.cs*",
+              "ToolTip": "D:\\Parmesh Git\\Logical-_Programs\\Daily Task\\Swaping_Numbers\\Program.cs",
+              "RelativeToolTip": "Swaping_Numbers\\Program.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAkwCEAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-03T16:25:23.952Z",

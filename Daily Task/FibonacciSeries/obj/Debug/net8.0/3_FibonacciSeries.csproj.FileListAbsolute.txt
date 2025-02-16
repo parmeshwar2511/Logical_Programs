@@ -1,0 +1,15 @@
+D:\Parmesh Git\Logical-_Programs\Daily Task\FibonacciSeries\bin\Debug\net8.0\3_FibonacciSeries.exe
+D:\Parmesh Git\Logical-_Programs\Daily Task\FibonacciSeries\bin\Debug\net8.0\3_FibonacciSeries.deps.json
+D:\Parmesh Git\Logical-_Programs\Daily Task\FibonacciSeries\bin\Debug\net8.0\3_FibonacciSeries.runtimeconfig.json
+D:\Parmesh Git\Logical-_Programs\Daily Task\FibonacciSeries\bin\Debug\net8.0\3_FibonacciSeries.dll
+D:\Parmesh Git\Logical-_Programs\Daily Task\FibonacciSeries\bin\Debug\net8.0\3_FibonacciSeries.pdb
+D:\Parmesh Git\Logical-_Programs\Daily Task\FibonacciSeries\obj\Debug\net8.0\3_FibonacciSeries.GeneratedMSBuildEditorConfig.editorconfig
+D:\Parmesh Git\Logical-_Programs\Daily Task\FibonacciSeries\obj\Debug\net8.0\3_FibonacciSeries.AssemblyInfoInputs.cache
+D:\Parmesh Git\Logical-_Programs\Daily Task\FibonacciSeries\obj\Debug\net8.0\3_FibonacciSeries.AssemblyInfo.cs
+D:\Parmesh Git\Logical-_Programs\Daily Task\FibonacciSeries\obj\Debug\net8.0\3_FibonacciSeries.csproj.CoreCompileInputs.cache
+D:\Parmesh Git\Logical-_Programs\Daily Task\FibonacciSeries\obj\Debug\net8.0\3_FibonacciSeries.sourcelink.json
+D:\Parmesh Git\Logical-_Programs\Daily Task\FibonacciSeries\obj\Debug\net8.0\3_FibonacciSeries.dll
+D:\Parmesh Git\Logical-_Programs\Daily Task\FibonacciSeries\obj\Debug\net8.0\refint\3_FibonacciSeries.dll
+D:\Parmesh Git\Logical-_Programs\Daily Task\FibonacciSeries\obj\Debug\net8.0\3_FibonacciSeries.pdb
+D:\Parmesh Git\Logical-_Programs\Daily Task\FibonacciSeries\obj\Debug\net8.0\3_FibonacciSeries.genruntimeconfig.cache
+D:\Parmesh Git\Logical-_Programs\Daily Task\FibonacciSeries\obj\Debug\net8.0\ref\3_FibonacciSeries.dll
