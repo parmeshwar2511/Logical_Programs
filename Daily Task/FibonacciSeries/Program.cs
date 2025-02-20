@@ -1,7 +1,7 @@
-﻿
+﻿using System;
 public class program
 {
-    static void Main()
+     public static void  Main(string[] args)
     {
 
         Console.WriteLine("Enter the number ");

@@ -1,0 +1,5 @@
+D:\Parmesh Git\Logical-_Programs\Daily Task\Day_1_Two _Sum\obj\Debug\net8.0\Day_1_Two _Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Parmesh Git\Logical-_Programs\Daily Task\Day_1_Two _Sum\obj\Debug\net8.0\Day_1_Two _Sum.AssemblyInfoInputs.cache
+D:\Parmesh Git\Logical-_Programs\Daily Task\Day_1_Two _Sum\obj\Debug\net8.0\Day_1_Two _Sum.AssemblyInfo.cs
+D:\Parmesh Git\Logical-_Programs\Daily Task\Day_1_Two _Sum\obj\Debug\net8.0\Day_1_Two _Sum.csproj.CoreCompileInputs.cache
+D:\Parmesh Git\Logical-_Programs\Daily Task\Day_1_Two _Sum\obj\Debug\net8.0\Day_1_Two _Sum.sourcelink.json

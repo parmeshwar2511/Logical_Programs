@@ -1,0 +1,15 @@
+D:\Parmesh Git\Logical-_Programs\Daily Task\04_Palindrome_Number\bin\Debug\net8.0\04_Palindrome_Number.exe
+D:\Parmesh Git\Logical-_Programs\Daily Task\04_Palindrome_Number\bin\Debug\net8.0\04_Palindrome_Number.deps.json
+D:\Parmesh Git\Logical-_Programs\Daily Task\04_Palindrome_Number\bin\Debug\net8.0\04_Palindrome_Number.runtimeconfig.json
+D:\Parmesh Git\Logical-_Programs\Daily Task\04_Palindrome_Number\bin\Debug\net8.0\04_Palindrome_Number.dll
+D:\Parmesh Git\Logical-_Programs\Daily Task\04_Palindrome_Number\bin\Debug\net8.0\04_Palindrome_Number.pdb
+D:\Parmesh Git\Logical-_Programs\Daily Task\04_Palindrome_Number\obj\Debug\net8.0\04_Palindrome_Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Parmesh Git\Logical-_Programs\Daily Task\04_Palindrome_Number\obj\Debug\net8.0\04_Palindrome_Number.AssemblyInfoInputs.cache
+D:\Parmesh Git\Logical-_Programs\Daily Task\04_Palindrome_Number\obj\Debug\net8.0\04_Palindrome_Number.AssemblyInfo.cs
+D:\Parmesh Git\Logical-_Programs\Daily Task\04_Palindrome_Number\obj\Debug\net8.0\04_Palindrome_Number.csproj.CoreCompileInputs.cache
+D:\Parmesh Git\Logical-_Programs\Daily Task\04_Palindrome_Number\obj\Debug\net8.0\04_Palindrome_Number.sourcelink.json
+D:\Parmesh Git\Logical-_Programs\Daily Task\04_Palindrome_Number\obj\Debug\net8.0\04_Palindrome_Number.dll
+D:\Parmesh Git\Logical-_Programs\Daily Task\04_Palindrome_Number\obj\Debug\net8.0\refint\04_Palindrome_Number.dll
+D:\Parmesh Git\Logical-_Programs\Daily Task\04_Palindrome_Number\obj\Debug\net8.0\04_Palindrome_Number.pdb
+D:\Parmesh Git\Logical-_Programs\Daily Task\04_Palindrome_Number\obj\Debug\net8.0\04_Palindrome_Number.genruntimeconfig.cache
+D:\Parmesh Git\Logical-_Programs\Daily Task\04_Palindrome_Number\obj\Debug\net8.0\ref\04_Palindrome_Number.dll
