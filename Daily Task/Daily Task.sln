@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3_FibonacciSeries", "Fibona
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04_Palindrome_Number", "04_Palindrome_Number\04_Palindrome_Number.csproj", "{2E20B0A7-AAD8-45D5-9275-AB706CD0741E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_Reverse_Array _Number", "05_Reverse_Array _Number\05_Reverse_Array _Number.csproj", "{64098A48-872E-46B0-9B59-C86AAF9FA649}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05_Reverse_Array _Number", "05_Reverse_Array _Number\05_Reverse_Array _Number.csproj", "{64098A48-872E-46B0-9B59-C86AAF9FA649}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_Highest_Number_Ary", "06_Highest_Number_Ary\06_Highest_Number_Ary.csproj", "{29B2AC58-CC94-4781-8EDC-2A23DDFFF32E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{64098A48-872E-46B0-9B59-C86AAF9FA649}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64098A48-872E-46B0-9B59-C86AAF9FA649}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64098A48-872E-46B0-9B59-C86AAF9FA649}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29B2AC58-CC94-4781-8EDC-2A23DDFFF32E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29B2AC58-CC94-4781-8EDC-2A23DDFFF32E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29B2AC58-CC94-4781-8EDC-2A23DDFFF32E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29B2AC58-CC94-4781-8EDC-2A23DDFFF32E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

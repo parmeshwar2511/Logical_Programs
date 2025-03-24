@@ -1,0 +1,15 @@
+D:\Parmesh Git\Logical-_Programs\Daily Task\06_Highest_Number_Ary\obj\Debug\net8.0\06_Highest_Number_Ary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Parmesh Git\Logical-_Programs\Daily Task\06_Highest_Number_Ary\obj\Debug\net8.0\06_Highest_Number_Ary.AssemblyInfoInputs.cache
+D:\Parmesh Git\Logical-_Programs\Daily Task\06_Highest_Number_Ary\obj\Debug\net8.0\06_Highest_Number_Ary.AssemblyInfo.cs
+D:\Parmesh Git\Logical-_Programs\Daily Task\06_Highest_Number_Ary\obj\Debug\net8.0\06_Highest_Number_Ary.csproj.CoreCompileInputs.cache
+D:\Parmesh Git\Logical-_Programs\Daily Task\06_Highest_Number_Ary\obj\Debug\net8.0\06_Highest_Number_Ary.sourcelink.json
+D:\Parmesh Git\Logical-_Programs\Daily Task\06_Highest_Number_Ary\bin\Debug\net8.0\06_Highest_Number_Ary.exe
+D:\Parmesh Git\Logical-_Programs\Daily Task\06_Highest_Number_Ary\bin\Debug\net8.0\06_Highest_Number_Ary.deps.json
+D:\Parmesh Git\Logical-_Programs\Daily Task\06_Highest_Number_Ary\bin\Debug\net8.0\06_Highest_Number_Ary.runtimeconfig.json
+D:\Parmesh Git\Logical-_Programs\Daily Task\06_Highest_Number_Ary\bin\Debug\net8.0\06_Highest_Number_Ary.dll
+D:\Parmesh Git\Logical-_Programs\Daily Task\06_Highest_Number_Ary\bin\Debug\net8.0\06_Highest_Number_Ary.pdb
+D:\Parmesh Git\Logical-_Programs\Daily Task\06_Highest_Number_Ary\obj\Debug\net8.0\06_Highest_Number_Ary.dll
+D:\Parmesh Git\Logical-_Programs\Daily Task\06_Highest_Number_Ary\obj\Debug\net8.0\refint\06_Highest_Number_Ary.dll
+D:\Parmesh Git\Logical-_Programs\Daily Task\06_Highest_Number_Ary\obj\Debug\net8.0\06_Highest_Number_Ary.pdb
+D:\Parmesh Git\Logical-_Programs\Daily Task\06_Highest_Number_Ary\obj\Debug\net8.0\06_Highest_Number_Ary.genruntimeconfig.cache
+D:\Parmesh Git\Logical-_Programs\Daily Task\06_Highest_Number_Ary\obj\Debug\net8.0\ref\06_Highest_Number_Ary.dll

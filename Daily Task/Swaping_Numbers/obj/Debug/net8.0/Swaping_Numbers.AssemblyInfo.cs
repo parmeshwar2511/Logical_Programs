@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Swaping_Numbers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3fba21812d3bd91ca4f8150c0a29f5c6285bde2f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c3e52ba2c158f530b668e7f74d7555e87a9048d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Swaping_Numbers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Swaping_Numbers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
