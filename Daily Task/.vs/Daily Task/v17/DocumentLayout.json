@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "D:\\Parmesh Git\\Logical-_Programs\\Daily Task\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2E20B0A7-AAD8-45D5-9275-AB706CD0741E}|04_Palindrome_Number\\04_Palindrome_Number.csproj|d:\\parmesh git\\logical-_programs\\daily task\\04_palindrome_number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E20B0A7-AAD8-45D5-9275-AB706CD0741E}|04_Palindrome_Number\\04_Palindrome_Number.csproj|solutionrelative:04_palindrome_number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A5D1ED9-721F-4CF8-924F-779FF5100B7B}|FibonacciSeries\\3_FibonacciSeries.csproj|d:\\parmesh git\\logical-_programs\\daily task\\fibonacciseries\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A5D1ED9-721F-4CF8-924F-779FF5100B7B}|FibonacciSeries\\3_FibonacciSeries.csproj|solutionrelative:fibonacciseries\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{64098A48-872E-46B0-9B59-C86AAF9FA649}|05_Reverse_Array _Number\\05_Reverse_Array _Number.csproj|d:\\parmesh git\\logical-_programs\\daily task\\05_reverse_array _number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64098A48-872E-46B0-9B59-C86AAF9FA649}|05_Reverse_Array _Number\\05_Reverse_Array _Number.csproj|solutionrelative:05_reverse_array _number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,26 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Parmesh Git\\Logical-_Programs\\Daily Task\\04_Palindrome_Number\\Program.cs",
-              "RelativeDocumentMoniker": "04_Palindrome_Number\\Program.cs",
-              "ToolTip": "D:\\Parmesh Git\\Logical-_Programs\\Daily Task\\04_Palindrome_Number\\Program.cs",
-              "RelativeToolTip": "04_Palindrome_Number\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Parmesh Git\\Logical-_Programs\\Daily Task\\05_Reverse_Array _Number\\Program.cs",
+              "RelativeDocumentMoniker": "05_Reverse_Array _Number\\Program.cs",
+              "ToolTip": "D:\\Parmesh Git\\Logical-_Programs\\Daily Task\\05_Reverse_Array _Number\\Program.cs",
+              "RelativeToolTip": "05_Reverse_Array _Number\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T18:17:35.089Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Parmesh Git\\Logical-_Programs\\Daily Task\\FibonacciSeries\\Program.cs",
-              "RelativeDocumentMoniker": "FibonacciSeries\\Program.cs",
-              "ToolTip": "D:\\Parmesh Git\\Logical-_Programs\\Daily Task\\FibonacciSeries\\Program.cs",
-              "RelativeToolTip": "FibonacciSeries\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T18:09:56.407Z",
+              "WhenOpened": "2025-03-24T17:28:12.001Z",
               "EditorCaption": ""
             }
           ]

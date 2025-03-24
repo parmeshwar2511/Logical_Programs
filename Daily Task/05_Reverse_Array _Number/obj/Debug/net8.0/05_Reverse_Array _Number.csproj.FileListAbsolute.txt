@@ -1,0 +1,15 @@
+D:\Parmesh Git\Logical-_Programs\Daily Task\05_Reverse_Array _Number\bin\Debug\net8.0\05_Reverse_Array _Number.exe
+D:\Parmesh Git\Logical-_Programs\Daily Task\05_Reverse_Array _Number\bin\Debug\net8.0\05_Reverse_Array _Number.deps.json
+D:\Parmesh Git\Logical-_Programs\Daily Task\05_Reverse_Array _Number\bin\Debug\net8.0\05_Reverse_Array _Number.runtimeconfig.json
+D:\Parmesh Git\Logical-_Programs\Daily Task\05_Reverse_Array _Number\bin\Debug\net8.0\05_Reverse_Array _Number.dll
+D:\Parmesh Git\Logical-_Programs\Daily Task\05_Reverse_Array _Number\bin\Debug\net8.0\05_Reverse_Array _Number.pdb
+D:\Parmesh Git\Logical-_Programs\Daily Task\05_Reverse_Array _Number\obj\Debug\net8.0\05_Reverse_Array _Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Parmesh Git\Logical-_Programs\Daily Task\05_Reverse_Array _Number\obj\Debug\net8.0\05_Reverse_Array _Number.AssemblyInfoInputs.cache
+D:\Parmesh Git\Logical-_Programs\Daily Task\05_Reverse_Array _Number\obj\Debug\net8.0\05_Reverse_Array _Number.AssemblyInfo.cs
+D:\Parmesh Git\Logical-_Programs\Daily Task\05_Reverse_Array _Number\obj\Debug\net8.0\05_Reverse_Array _Number.csproj.CoreCompileInputs.cache
+D:\Parmesh Git\Logical-_Programs\Daily Task\05_Reverse_Array _Number\obj\Debug\net8.0\05_Reverse_Array _Number.sourcelink.json
+D:\Parmesh Git\Logical-_Programs\Daily Task\05_Reverse_Array _Number\obj\Debug\net8.0\05_Reverse_Array _Number.dll
+D:\Parmesh Git\Logical-_Programs\Daily Task\05_Reverse_Array _Number\obj\Debug\net8.0\refint\05_Reverse_Array _Number.dll
+D:\Parmesh Git\Logical-_Programs\Daily Task\05_Reverse_Array _Number\obj\Debug\net8.0\05_Reverse_Array _Number.pdb
+D:\Parmesh Git\Logical-_Programs\Daily Task\05_Reverse_Array _Number\obj\Debug\net8.0\05_Reverse_Array _Number.genruntimeconfig.cache
+D:\Parmesh Git\Logical-_Programs\Daily Task\05_Reverse_Array _Number\obj\Debug\net8.0\ref\05_Reverse_Array _Number.dll
