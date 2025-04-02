@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04_Palindrome_Number", "04_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05_Reverse_Array _Number", "05_Reverse_Array _Number\05_Reverse_Array _Number.csproj", "{64098A48-872E-46B0-9B59-C86AAF9FA649}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_Highest_Number_Ary", "06_Highest_Number_Ary\06_Highest_Number_Ary.csproj", "{29B2AC58-CC94-4781-8EDC-2A23DDFFF32E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06_Highest_Number_Ary", "06_Highest_Number_Ary\06_Highest_Number_Ary.csproj", "{29B2AC58-CC94-4781-8EDC-2A23DDFFF32E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7_Armstrong_Number", "7_Armstrong_Number\7_Armstrong_Number.csproj", "{4B8DCAB2-1C6F-4C03-9CEC-350994F9C1EC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{29B2AC58-CC94-4781-8EDC-2A23DDFFF32E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29B2AC58-CC94-4781-8EDC-2A23DDFFF32E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29B2AC58-CC94-4781-8EDC-2A23DDFFF32E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B8DCAB2-1C6F-4C03-9CEC-350994F9C1EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B8DCAB2-1C6F-4C03-9CEC-350994F9C1EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B8DCAB2-1C6F-4C03-9CEC-350994F9C1EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B8DCAB2-1C6F-4C03-9CEC-350994F9C1EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

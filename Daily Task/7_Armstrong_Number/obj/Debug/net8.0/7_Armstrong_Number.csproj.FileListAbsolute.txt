@@ -1,0 +1,15 @@
+D:\Parmesh Git\Logical-_Programs\Daily Task\7_Armstrong_Number\bin\Debug\net8.0\7_Armstrong_Number.exe
+D:\Parmesh Git\Logical-_Programs\Daily Task\7_Armstrong_Number\bin\Debug\net8.0\7_Armstrong_Number.deps.json
+D:\Parmesh Git\Logical-_Programs\Daily Task\7_Armstrong_Number\bin\Debug\net8.0\7_Armstrong_Number.runtimeconfig.json
+D:\Parmesh Git\Logical-_Programs\Daily Task\7_Armstrong_Number\bin\Debug\net8.0\7_Armstrong_Number.dll
+D:\Parmesh Git\Logical-_Programs\Daily Task\7_Armstrong_Number\bin\Debug\net8.0\7_Armstrong_Number.pdb
+D:\Parmesh Git\Logical-_Programs\Daily Task\7_Armstrong_Number\obj\Debug\net8.0\7_Armstrong_Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Parmesh Git\Logical-_Programs\Daily Task\7_Armstrong_Number\obj\Debug\net8.0\7_Armstrong_Number.AssemblyInfoInputs.cache
+D:\Parmesh Git\Logical-_Programs\Daily Task\7_Armstrong_Number\obj\Debug\net8.0\7_Armstrong_Number.AssemblyInfo.cs
+D:\Parmesh Git\Logical-_Programs\Daily Task\7_Armstrong_Number\obj\Debug\net8.0\7_Armstrong_Number.csproj.CoreCompileInputs.cache
+D:\Parmesh Git\Logical-_Programs\Daily Task\7_Armstrong_Number\obj\Debug\net8.0\7_Armstrong_Number.sourcelink.json
+D:\Parmesh Git\Logical-_Programs\Daily Task\7_Armstrong_Number\obj\Debug\net8.0\7_Armstrong_Number.dll
+D:\Parmesh Git\Logical-_Programs\Daily Task\7_Armstrong_Number\obj\Debug\net8.0\refint\7_Armstrong_Number.dll
+D:\Parmesh Git\Logical-_Programs\Daily Task\7_Armstrong_Number\obj\Debug\net8.0\7_Armstrong_Number.pdb
+D:\Parmesh Git\Logical-_Programs\Daily Task\7_Armstrong_Number\obj\Debug\net8.0\7_Armstrong_Number.genruntimeconfig.cache
+D:\Parmesh Git\Logical-_Programs\Daily Task\7_Armstrong_Number\obj\Debug\net8.0\ref\7_Armstrong_Number.dll
