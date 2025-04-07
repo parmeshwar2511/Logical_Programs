@@ -1,0 +1,15 @@
+D:\Parmesh Git\Logical-_Programs\Daily Task\8_PrimeNumber\bin\Debug\net8.0\8_PrimeNumber.exe
+D:\Parmesh Git\Logical-_Programs\Daily Task\8_PrimeNumber\bin\Debug\net8.0\8_PrimeNumber.deps.json
+D:\Parmesh Git\Logical-_Programs\Daily Task\8_PrimeNumber\bin\Debug\net8.0\8_PrimeNumber.runtimeconfig.json
+D:\Parmesh Git\Logical-_Programs\Daily Task\8_PrimeNumber\bin\Debug\net8.0\8_PrimeNumber.dll
+D:\Parmesh Git\Logical-_Programs\Daily Task\8_PrimeNumber\bin\Debug\net8.0\8_PrimeNumber.pdb
+D:\Parmesh Git\Logical-_Programs\Daily Task\8_PrimeNumber\obj\Debug\net8.0\8_PrimeNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Parmesh Git\Logical-_Programs\Daily Task\8_PrimeNumber\obj\Debug\net8.0\8_PrimeNumber.AssemblyInfoInputs.cache
+D:\Parmesh Git\Logical-_Programs\Daily Task\8_PrimeNumber\obj\Debug\net8.0\8_PrimeNumber.AssemblyInfo.cs
+D:\Parmesh Git\Logical-_Programs\Daily Task\8_PrimeNumber\obj\Debug\net8.0\8_PrimeNumber.csproj.CoreCompileInputs.cache
+D:\Parmesh Git\Logical-_Programs\Daily Task\8_PrimeNumber\obj\Debug\net8.0\8_PrimeNumber.sourcelink.json
+D:\Parmesh Git\Logical-_Programs\Daily Task\8_PrimeNumber\obj\Debug\net8.0\8_PrimeNumber.dll
+D:\Parmesh Git\Logical-_Programs\Daily Task\8_PrimeNumber\obj\Debug\net8.0\refint\8_PrimeNumber.dll
+D:\Parmesh Git\Logical-_Programs\Daily Task\8_PrimeNumber\obj\Debug\net8.0\8_PrimeNumber.pdb
+D:\Parmesh Git\Logical-_Programs\Daily Task\8_PrimeNumber\obj\Debug\net8.0\8_PrimeNumber.genruntimeconfig.cache
+D:\Parmesh Git\Logical-_Programs\Daily Task\8_PrimeNumber\obj\Debug\net8.0\ref\8_PrimeNumber.dll
