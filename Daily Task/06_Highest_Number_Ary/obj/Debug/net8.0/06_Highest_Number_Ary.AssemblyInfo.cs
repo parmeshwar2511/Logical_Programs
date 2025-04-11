@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("06_Highest_Number_Ary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53962151e04e1f6c272642ababb57e2fec812496")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74d4142b1631d7ae2291de68cab26455dd68216f")]
 [assembly: System.Reflection.AssemblyProductAttribute("06_Highest_Number_Ary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("06_Highest_Number_Ary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
