@@ -1,0 +1,15 @@
+D:\Parmesh Git\Logical-_Programs\Daily Task\10_ Pyramid Pattern\bin\Debug\net8.0\10_ Pyramid Pattern.exe
+D:\Parmesh Git\Logical-_Programs\Daily Task\10_ Pyramid Pattern\bin\Debug\net8.0\10_ Pyramid Pattern.deps.json
+D:\Parmesh Git\Logical-_Programs\Daily Task\10_ Pyramid Pattern\bin\Debug\net8.0\10_ Pyramid Pattern.runtimeconfig.json
+D:\Parmesh Git\Logical-_Programs\Daily Task\10_ Pyramid Pattern\bin\Debug\net8.0\10_ Pyramid Pattern.dll
+D:\Parmesh Git\Logical-_Programs\Daily Task\10_ Pyramid Pattern\bin\Debug\net8.0\10_ Pyramid Pattern.pdb
+D:\Parmesh Git\Logical-_Programs\Daily Task\10_ Pyramid Pattern\obj\Debug\net8.0\10_ Pyramid Pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Parmesh Git\Logical-_Programs\Daily Task\10_ Pyramid Pattern\obj\Debug\net8.0\10_ Pyramid Pattern.AssemblyInfoInputs.cache
+D:\Parmesh Git\Logical-_Programs\Daily Task\10_ Pyramid Pattern\obj\Debug\net8.0\10_ Pyramid Pattern.AssemblyInfo.cs
+D:\Parmesh Git\Logical-_Programs\Daily Task\10_ Pyramid Pattern\obj\Debug\net8.0\10_ Pyramid Pattern.csproj.CoreCompileInputs.cache
+D:\Parmesh Git\Logical-_Programs\Daily Task\10_ Pyramid Pattern\obj\Debug\net8.0\10_ Pyramid Pattern.sourcelink.json
+D:\Parmesh Git\Logical-_Programs\Daily Task\10_ Pyramid Pattern\obj\Debug\net8.0\10_ Pyramid Pattern.dll
+D:\Parmesh Git\Logical-_Programs\Daily Task\10_ Pyramid Pattern\obj\Debug\net8.0\refint\10_ Pyramid Pattern.dll
+D:\Parmesh Git\Logical-_Programs\Daily Task\10_ Pyramid Pattern\obj\Debug\net8.0\10_ Pyramid Pattern.pdb
+D:\Parmesh Git\Logical-_Programs\Daily Task\10_ Pyramid Pattern\obj\Debug\net8.0\10_ Pyramid Pattern.genruntimeconfig.cache
+D:\Parmesh Git\Logical-_Programs\Daily Task\10_ Pyramid Pattern\obj\Debug\net8.0\ref\10_ Pyramid Pattern.dll

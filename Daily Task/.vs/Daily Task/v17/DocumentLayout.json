@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Parmesh Git\\Logical-_Programs\\Daily Task\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6929A07-5270-4037-B073-19A598D33DAE}|10_ Pyramid Pattern\\10_ Pyramid Pattern.csproj|d:\\parmesh git\\logical-_programs\\daily task\\10_ pyramid pattern\\10_ pyramid pattern.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E6929A07-5270-4037-B073-19A598D33DAE}|10_ Pyramid Pattern\\10_ Pyramid Pattern.csproj|solutionrelative:10_ pyramid pattern\\10_ pyramid pattern.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6929A07-5270-4037-B073-19A598D33DAE}|10_ Pyramid Pattern\\10_ Pyramid Pattern.csproj|d:\\parmesh git\\logical-_programs\\daily task\\10_ pyramid pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6929A07-5270-4037-B073-19A598D33DAE}|10_ Pyramid Pattern\\10_ Pyramid Pattern.csproj|solutionrelative:10_ pyramid pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "10_ Pyramid Pattern",
+              "DocumentMoniker": "D:\\Parmesh Git\\Logical-_Programs\\Daily Task\\10_ Pyramid Pattern\\10_ Pyramid Pattern.csproj",
+              "RelativeDocumentMoniker": "10_ Pyramid Pattern\\10_ Pyramid Pattern.csproj",
+              "ToolTip": "D:\\Parmesh Git\\Logical-_Programs\\Daily Task\\10_ Pyramid Pattern\\10_ Pyramid Pattern.csproj",
+              "RelativeToolTip": "10_ Pyramid Pattern\\10_ Pyramid Pattern.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-17T14:31:37.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Parmesh Git\\Logical-_Programs\\Daily Task\\10_ Pyramid Pattern\\Program.cs",
+              "RelativeDocumentMoniker": "10_ Pyramid Pattern\\Program.cs",
+              "ToolTip": "D:\\Parmesh Git\\Logical-_Programs\\Daily Task\\10_ Pyramid Pattern\\Program.cs",
+              "RelativeToolTip": "10_ Pyramid Pattern\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T14:29:05.796Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
